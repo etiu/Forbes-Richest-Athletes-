@@ -3,7 +3,7 @@ This is an exploratory data analysis on the list of athletes who made it to the 
 
 
 ## Installation
--Pandas
--Numpy
--Matplotlib
--Seaborn
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
